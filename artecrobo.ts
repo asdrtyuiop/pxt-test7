@@ -22,7 +22,7 @@ enum connectorDCMotor {
  */
 //% color=#5b99a5 weight=100 icon="\uf009" block="ArtecRobo"
 namespace artecrobo {
-	// LED 
+	// Move DC motor
 	//% blockId=artec_move_dc_motor
 	//% block="LED %_connector| : %_motion"
 	export function moveDCMotor(_connector: connectorDCMotor, _motion: DCmotion): void {
