@@ -3,7 +3,7 @@
  */
 enum DCmotion {
 	//% block="ON"
-	OFF,
+	ON,
 	//% block="OFF"
 	OFF
 }
