@@ -1,0 +1,8 @@
+{
+  "DCmotion.On|block": "正転"
+  ,"DCmotion.Backward|block": "逆転"
+  ,"DCmotion.Brake|block": "停止"
+  ,"DCmotion.Coast|block": "解放"
+  ,"connectorDCMotor.M1|block": "M1"
+  ,"connectorDCMotor.M2|block": "M2"
+}
